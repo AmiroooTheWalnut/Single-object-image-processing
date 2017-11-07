@@ -1,5 +1,6 @@
 # Single-object-image-processing
-This repository is related to the paper published as "Foot anthropometry device and single object image thresholding"
+This repository is related to the paper published as "Foot anthropometry device and single object image thresholding".
+It contains the "single object image thresholding" algorithm for underfoot image processing and the processes for upper foot with minor differences such as manual background threshold selection.
 
 Written by Amir Mohammad Esmaieeli Sikaroudi in Java. This repository is related to the paper published as "Foot anthropometry device and single object image thresholding". This project is made by Netbeans.
 
